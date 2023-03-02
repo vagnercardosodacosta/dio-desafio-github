@@ -1,0 +1,2 @@
+link para donwload do git : https://git.com/downloads
+o Git Bash e um terminal extendido para otimizar o uso do Git.
